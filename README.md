@@ -1,7 +1,7 @@
 # Freshworks-Assignment
 This is the solution for build a file based key-value data store assignment. Made with python and employ all the specifications and dirrections given in the problem statement also tested every working fuctionality.
 
-<h3>The data store will support the following :<h3>
+<h3>The data store will support the following :</h3>
 
 1.)It can be initialized using an optional file path. If one is not provided, it will reliably create itself in a reasonable location on the laptop.
 
